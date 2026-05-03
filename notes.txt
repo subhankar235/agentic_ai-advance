@@ -1,0 +1,21 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+It enables computers to learn from data, recognize patterns, and make decisions.
+
+Machine Learning (ML) is a subset of AI that focuses on training models using data.
+Deep Learning is a type of ML that uses neural networks with multiple layers.
+
+AI is used in many real-world applications such as:
+- Healthcare (disease detection, medical imaging)
+- Finance (fraud detection, trading)
+- Education (personalized learning)
+- Automation (self-driving cars, robotics)
+
+Advantages of AI:
+- Reduces human effort
+- Improves efficiency
+- Handles large data easily
+
+Challenges of AI:
+- Requires large data
+- Can be biased
+- Expensive to build and maintain
